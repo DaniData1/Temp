@@ -1,0 +1,32 @@
+{
+  "name": "mealmate-core",
+  "version": "1.0.0",
+  "description": "MealMate automation tool",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "nodemon src/index.ts",
+    "tsx": "tsx watch src/index.ts",
+    "build": "npx playwright install --with-deps chromium firefox"
+  },
+  "author": "Danial Abdoli",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/browser-chromium": "^1.44.0",
+    "@playwright/browser-firefox": "^1.44.0",
+    "cors": "^2.8.5",
+    "croner": "^8.0.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "playwright": "^1.44.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.12.12",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.10.5",
+    "typescript": "^5.4.5"
+  }
+}

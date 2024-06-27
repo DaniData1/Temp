@@ -1,0 +1,8 @@
+{
+  "platform": "node",
+  "app": "mealmate",
+  "port": 9000,
+  "node": {
+    "mirror": false
+  }
+}
