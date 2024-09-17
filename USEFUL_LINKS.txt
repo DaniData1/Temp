@@ -18,3 +18,13 @@ https://avalpardakht.com/blog/%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%B3%D8%A7%
 USEFUL REACT LIBRARIES
 1. React-Menu
 2. React-Countup
+
+SIDEBAR IN REACT
+1. https://dev.to/ksaini9/creating-a-multi-level-sidebar-animation-with-tailwind-and-framer-motion-in-react-53f1
+2. https://www.npmjs.com/package/react-multilevel-sidebar    (OLD)
+3. https://github.com/somewebmedia/hc-offcanvas-nav    (OLD)
+4. https://dev.to/jsmanifest/create-a-modern-dynamic-sidebar-menu-in-react-using-recursion-36eo
+5. https://www.youtube.com/watch?v=kuO3XzK6xQc
+
+CAROUSELS, GALLERIES, & SLIDERS
+1.react-flickity-component
