@@ -28,3 +28,9 @@ SIDEBAR IN REACT
 
 CAROUSELS, GALLERIES, & SLIDERS
 1.react-flickity-component
+-----
+
+https://reactjs-tiptap-editor.vercel.app/
+https://dev.to/tailwindcss/react-e-commerce-components-4nd4?ref=dailydev
+https://www.ui-layout.com/
+https://dev.to/devluc/50-best-websites-for-web-design-inspiration-and-ideas-be6?ref=dailydev
