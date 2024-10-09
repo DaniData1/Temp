@@ -40,3 +40,9 @@ https://squoosh.app/
 https://uiverse.io/
 https://www.frontendmentor.io/
 https://driverjs.com/
+
+FOLDER STRUCTURE FOR NEXT.JS APPS
+https://app.daily.dev/posts/mastering-next-js-structuring-your-large-scale-project-for-success-gazxo2bii
+
+COLOR PALETTE FROM ONE COLOR
+https://mycolor.space/
