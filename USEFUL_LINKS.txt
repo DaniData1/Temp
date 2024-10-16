@@ -49,3 +49,6 @@ https://mycolor.space/
 
 WHY USE useSuspenseQuery()
 https://rouret.hashnode.dev/stop-using-usequery-from-react-query?ref=dailydev
+
+COOKIES IN NEXT.JS
+https://prismic.io/blog/nextjs-cookies?ref=dailydev
