@@ -46,3 +46,6 @@ https://app.daily.dev/posts/mastering-next-js-structuring-your-large-scale-proje
 
 COLOR PALETTE FROM ONE COLOR
 https://mycolor.space/
+
+WHY USE useSuspenseQuery()
+https://rouret.hashnode.dev/stop-using-usequery-from-react-query?ref=dailydev
