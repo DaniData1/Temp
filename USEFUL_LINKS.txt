@@ -52,3 +52,9 @@ https://rouret.hashnode.dev/stop-using-usequery-from-react-query?ref=dailydev
 
 COOKIES IN NEXT.JS
 https://prismic.io/blog/nextjs-cookies?ref=dailydev
+
+TAILWIND COMPONENTS
+https://merakiui.com/
+
+3D ICONS
+https://3dicons.co/
