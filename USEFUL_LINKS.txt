@@ -63,3 +63,6 @@ https://3dicons.co/
 
 
 https://www.npmjs.com/package/react-multi-date-picker
+
+NEXT.JS AUTH
+https://docs.stack-auth.com/overview
