@@ -66,3 +66,4 @@ https://www.npmjs.com/package/react-multi-date-picker
 
 NEXT.JS AUTH
 https://docs.stack-auth.com/overview
+https://www.better-auth.com/
