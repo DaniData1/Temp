@@ -70,3 +70,7 @@ https://www.better-auth.com/
 
 
 https://blog.olivierlarose.com/demos/3d-wave-on-scroll
+
+
+FINDING RIGHT VIDEO PLAYER FOR ANY FRAMEWORK
+https://player.style/
