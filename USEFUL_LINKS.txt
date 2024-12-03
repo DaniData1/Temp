@@ -71,6 +71,10 @@ https://www.better-auth.com/
 
 https://blog.olivierlarose.com/demos/3d-wave-on-scroll
 
+Curated collection of beautiful website hero sections.
+https://www.supahero.io/
+
+Website with wavy footer. -> dapapp
 
 FINDING RIGHT VIDEO PLAYER FOR ANY FRAMEWORK
 https://player.style/
